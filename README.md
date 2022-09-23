@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/fmkYSBlJt3XjNF6p9c)]
+[![MasterHead](https://giphy.com/gifs/monstercat-edm-electronic-music-xT8qBsOjMOcdeGJIU8)]
 <h1 align="center">Hi 👋, I'm Samistone</h1>
 <h3 align="center">i'm 18 and i code</h3>
 <img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
